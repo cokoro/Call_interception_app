@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:support-v4:21.0.3] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/b96e1144fe6e1a7bcf58467ec7e83a4a/AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6a850a85634ec2a49be9d9a98aab1469/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/b96e1144fe6e1a7bcf58467ec7e83a4a/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/b96e1144fe6e1a7bcf58467ec7e83a4a/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6a850a85634ec2a49be9d9a98aab1469/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6a850a85634ec2a49be9d9a98aab1469/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:14:22-66
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:18:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:24:22-77
+application
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:26:5-50:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/b96e1144fe6e1a7bcf58467ec7e83a4a/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/b96e1144fe6e1a7bcf58467ec7e83a4a/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6a850a85634ec2a49be9d9a98aab1469/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chenkexin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6a850a85634ec2a49be9d9a98aab1469/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:31:9-40
+activity#com.kale.phoneblock.MainActivity
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:38:27-74
+receiver#com.kale.phoneblock.PhoneReceiver
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:43:9-48:20
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:43:19-48
+intent-filter#android.intent.action.NEW_OUTGOING_CALL+android.intent.action.PHONE_STATE
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:44:13-47:29
+	android:priority
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:44:28-51
+action#android.intent.action.PHONE_STATE
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:45:17-76
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:45:25-73
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:46:17-82
+	android:name
+		ADDED from /Users/chenkexin/Downloads/实现来电拦截1/app/src/main/AndroidManifest.xml:46:25-79
