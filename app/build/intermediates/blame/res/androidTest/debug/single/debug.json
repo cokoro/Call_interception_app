@@ -124,10 +124,6 @@
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_content_include.xml.flat",
-        "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/layout/abc_screen_content_include.xml"
-    },
-    {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-mdpi/abc_list_pressed_holo_light.9.png"
     },

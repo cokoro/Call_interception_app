@@ -1,4 +1,0 @@
-#Mon Nov 27 23:50:11 CST 2017
-base.0=/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/transforms/dexMerger/debug/10
-renamed.0=classes.dex
-file.0=/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex

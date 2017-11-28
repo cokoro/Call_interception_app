@@ -8,12 +8,12 @@
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
@@ -40,12 +40,12 @@
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
         "source": "/Users/chenkexin/Downloads/实现来电拦截1/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
@@ -68,12 +68,12 @@
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-mdpi/abc_ab_share_pack_holo_light.9.png"
     },
     {
-        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -84,16 +84,20 @@
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
+        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable_colorman.jpg.flat",
+        "source": "/Users/chenkexin/Downloads/实现来电拦截1/app/src/main/res/drawable/colorman.jpg"
+    },
+    {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
@@ -172,6 +176,10 @@
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-mdpi/abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable_picture2.png.flat",
+        "source": "/Users/chenkexin/Downloads/实现来电拦截1/app/src/main/res/drawable/picture2.png"
+    },
+    {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
     },
@@ -248,12 +256,12 @@
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
-        "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/anim/abc_slide_out_bottom.xml"
-    },
-    {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -278,6 +286,10 @@
     {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable_picture.jpg.flat",
+        "source": "/Users/chenkexin/Downloads/实现来电拦截1/app/src/main/res/drawable/picture.jpg"
     },
     {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
@@ -370,6 +382,10 @@
     {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable_twowomen.jpeg.flat",
+        "source": "/Users/chenkexin/Downloads/实现来电拦截1/app/src/main/res/drawable/twowomen.jpeg"
     },
     {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -862,6 +878,10 @@
     {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ab_share_pack_holo_light.9.png.flat",
         "source": "/Users/chenkexin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/55f30f56a1d8b1b20b46cd3ec989f318/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable_god.jpg.flat",
+        "source": "/Users/chenkexin/Downloads/实现来电拦截1/app/src/main/res/drawable/god.jpg"
     },
     {
         "merged": "/Users/chenkexin/Downloads/实现来电拦截1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
