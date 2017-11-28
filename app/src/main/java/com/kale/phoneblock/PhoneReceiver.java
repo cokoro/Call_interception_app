@@ -10,6 +10,7 @@ import java.lang.reflect.Method;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
+import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.app.Service;
 import android.content.BroadcastReceiver;
@@ -26,6 +27,7 @@ import android.provider.ContactsContract;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
 import android.util.Log;
+import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
@@ -48,6 +50,7 @@ public class PhoneReceiver extends BroadcastReceiver {
     private ImageView imageView;
     private ProgressDialog progressDialog;
     private final String IMAGE_PATH = "http://developer.android.com/images/home/kk-hero.jpg";
+    public static ImageView iv;
 
     @Override
     public void onReceive(final Context context, Intent intent) {
@@ -128,9 +131,19 @@ public class PhoneReceiver extends BroadcastReceiver {
                 break;
         }
         if (is_find != 1) {
+            //this.MyAsyncTask().execute(IMAGE_PATH);
+            iv = new ImageView(context);
+            View view = new View(context);
+            download(view,context);
             Toast toast = Toast.makeText(context.getApplicationContext(), "I can not find...", Toast.LENGTH_LONG);
             LinearLayout toastView = (LinearLayout) toast.getView();//获取Toast的LinearLayout，注意需要是线性布局
+            //LinearLayout relativeLayout = (LinearLayout)toastView.findViewById(R.id.toast_linear);
+            toastView.addView(iv);
             toast.show();
+            /*AlertDialog.Builder ImageDialog = new AlertDialog.Builder(context.getApplicationContext());
+            ImageDialog.setTitle("Unknown number!");
+            ImageDialog.setView(iv);
+            ImageDialog.show();*/
             //ImageView view = new ImageView(context);
             //
             // imageView = (ImageView)findViewById(R.id.imageView);
@@ -184,6 +197,13 @@ public class PhoneReceiver extends BroadcastReceiver {
             return bitmap;
         }
         return null;
+    }
+    //点击“下载”按钮
+    public static void download(View view, Context context){
+        //实例化异步任务的类
+        DownloadAsynctask task = new DownloadAsynctask(iv, context);
+        //execute方法执行后，会调用异步任务的doInBackground方法
+        task.execute("http://i.cs.hku.hk/~twchim/police/warning.jpg");
     }
 
 }
