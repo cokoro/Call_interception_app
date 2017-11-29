@@ -37,7 +37,7 @@ public class MainActivity extends Activity
         setContentView(R.layout.activity_main);
 
         iv = (ImageView) findViewById(R.id.iv);
-        /*button = (Button)findViewById(R.id.button);
+        button = (Button)findViewById(R.id.button);
 
         button.setOnClickListener(new View.OnClickListener()
         {
@@ -52,7 +52,7 @@ public class MainActivity extends Activity
                 //task.execute("http://p2.so.qhmsg.com/t01fb3e43c8cd9ee917.jpg");
 
             }
-        });*/
+        });
 
     }
     //点击“下载”按钮
@@ -60,6 +60,7 @@ public class MainActivity extends Activity
         //实例化异步任务的类
         DownloadAsynctask task = new DownloadAsynctask(iv, this);
         //execute方法执行后，会调用异步任务的doInBackground方法
-        task.execute("http://p2.so.qhmsg.com/t01fb3e43c8cd9ee917.jpg");
+        //task.execute("http://raw.githubusercontent.com/cokoro/Call_interception_app/master/jpg_icon.jpg");
+        task.execute("http://i.cs.hku.hk/~kxchen/icon.jpg");
     }
 }

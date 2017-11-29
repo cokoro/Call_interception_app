@@ -27,6 +27,7 @@ import android.provider.ContactsContract;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -132,13 +133,15 @@ public class PhoneReceiver extends BroadcastReceiver {
         }
         if (is_find != 1) {
             //this.MyAsyncTask().execute(IMAGE_PATH);
-            iv = new ImageView(context);
-            View view = new View(context);
+            iv = new ImageView(context.getApplicationContext());
+            View view = new View(context.getApplicationContext());
             download(view,context);
-            Toast toast = Toast.makeText(context.getApplicationContext(), "I can not find...", Toast.LENGTH_LONG);
+            Toast toast = Toast.makeText(context.getApplicationContext(), "!!!Unknown number!!!", Toast.LENGTH_LONG);
             LinearLayout toastView = (LinearLayout) toast.getView();//获取Toast的LinearLayout，注意需要是线性布局
             //LinearLayout relativeLayout = (LinearLayout)toastView.findViewById(R.id.toast_linear);
-            toastView.addView(iv);
+            toastView.addView(iv,0);
+            toast.setGravity(Gravity.FILL_HORIZONTAL, 0, 0);
+
             toast.show();
             /*AlertDialog.Builder ImageDialog = new AlertDialog.Builder(context.getApplicationContext());
             ImageDialog.setTitle("Unknown number!");
@@ -170,7 +173,6 @@ public class PhoneReceiver extends BroadcastReceiver {
             } catch (Exception e) {
                 e.printStackTrace();
             }/*
-            Bitmap bitmap = ImageUtil.getImage("http://i.cs.hku.hk/~twchim/police/warning.jpg");
             ImageView view = new ImageView(context);
             view.setImageBitmap(bitmap);
             //ImageView image = ImageView.setImageBitmap(bitmap);
@@ -202,8 +204,10 @@ public class PhoneReceiver extends BroadcastReceiver {
     public static void download(View view, Context context){
         //实例化异步任务的类
         DownloadAsynctask task = new DownloadAsynctask(iv, context);
+        //task.execute("http://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1511881410532&di=a7c484084b711c0a280671fc61d942af&imgtype=0&src=http%3A%2F%2Fimg.25pp.com%2Fuploadfile%2Fsoft%2Fimages%2F2013%2F0221%2F20130221011758497.jpg");
         //execute方法执行后，会调用异步任务的doInBackground方法
-        task.execute("http://i.cs.hku.hk/~twchim/police/warning.jpg");
+        //task.execute("http://p2.so.qhmsg.com/t01fb3e43c8cd9ee917.jpg");
+        task.execute("http://i.cs.hku.hk/~kxchen/alert.jpg");
     }
 
 }

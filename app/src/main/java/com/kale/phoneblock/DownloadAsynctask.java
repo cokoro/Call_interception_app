@@ -21,7 +21,6 @@ public class DownloadAsynctask extends AsyncTask<String, Integer, byte[]>{
 
     private ImageView iv;
     private Context context; //上下文对象
-    private ProgressDialog dialog; //进度对话框
 
     /*
      * 通过构造方法，把MainActivity中的数据传递过来
@@ -38,14 +37,6 @@ public class DownloadAsynctask extends AsyncTask<String, Integer, byte[]>{
     @Override
     protected void onPreExecute() {
         super.onPreExecute();
-        dialog = new ProgressDialog(context);
-
-        dialog.setTitle("正在加载中.........");
-        dialog.setMessage("请耐心等待");
-        dialog.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);//水平进度条
-        dialog.setCancelable(false); //屏蔽返回键
-
-        //dialog.show();
     }
 
     /*
@@ -101,7 +92,6 @@ public class DownloadAsynctask extends AsyncTask<String, Integer, byte[]>{
         }else {
             Toast.makeText(context, "网络错误", Toast.LENGTH_LONG).show();
         }
-        dialog.dismiss();
     }
 
     /*
@@ -111,7 +101,5 @@ public class DownloadAsynctask extends AsyncTask<String, Integer, byte[]>{
     protected void onProgressUpdate(Integer... values) {
         super.onProgressUpdate(values);
         //更新进度条
-        dialog.setMax(values[0]);
-        dialog.setProgress(values[1]);
     }
 }
